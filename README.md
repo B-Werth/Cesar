@@ -1,1 +1,1 @@
-Beliebigen Text nach der Caesar-Verschlüsselung-Methode verschlüsseln
+Tool mit der man Texte mit der Caesar-Verschlüsselung verschlüsseln oder verschlüsselte Texte wieder entschlüsseln kann. Dafür muss der Text bzw. der Geheimtext einfach eingegeben werden. Zusätzlich muss noch eine Verschiebung angegeben werden, um wie viel Stellen im Alphabet verschoben werden soll.
